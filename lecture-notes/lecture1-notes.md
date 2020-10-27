@@ -1,4 +1,4 @@
-##Lecture 1
+##Lecture 1 (slides 1-48)
 
 ### The Pains Of Programming
 
